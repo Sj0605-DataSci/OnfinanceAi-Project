@@ -1,5 +1,4 @@
-# Onfinance-Assignment
-Assignement - Onfinance.ai
+# Onfinance.ai - project
 
 
 ## Different Approaches 
